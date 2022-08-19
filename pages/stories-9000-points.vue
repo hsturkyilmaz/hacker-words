@@ -1,7 +1,7 @@
 <template>
   <div class="container">
     <div class="list">
-      <a href="https://news.ycombinator.com/newest">
+      <a href="https://news.ycombinator.com/newest" target="_blank">
         <div class="list__title">
           Last 25 Stories
           <img :src="ArrowIcon" class="list__icon" />
