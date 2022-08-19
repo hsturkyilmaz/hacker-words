@@ -23,7 +23,7 @@ https://github.com/HackerNews/API
 
 ## Installation
 
-Install my-project with npm
+Install hacker-words with yarn
 
 ```bash
 # install dependencies
